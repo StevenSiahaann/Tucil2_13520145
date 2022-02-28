@@ -43,7 +43,7 @@ data = datasets.load_iris()
 
 displayConvexHull(df,0,1,hull)
 
-6. displayConvexHull(df,0,1,hull)
+6. Namun jika tidak ingin mengetikkan inputan,pada repository ini sudah disediakan 2 source code untuk ke 3 dataset itu, jika anda ingin menggunakan data set di luar itu anda harus memodifikasi data seperti contoh nomor 5.  
 7. Klik tombol run.
 8. Selamat ConvexHull sudah terbentuk!
 
