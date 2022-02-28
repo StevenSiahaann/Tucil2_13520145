@@ -38,7 +38,9 @@ data = datasets.{bagian ini}
 4. Lalu pilih kolom yang akan digunakan karena kita akan memanggil langsung fungsi visualisasinya,yakni displayConvexHull(df,a,b,hull)
 5. Contoh: (untuk kolom : 0 dan 1 pada dataset iris) 
 
+
 data = datasets.load_iris()
+
 displayConvexHull(df,0,1,hull)
 
 6. displayConvexHull(df,0,1,hull)
