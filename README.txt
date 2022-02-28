@@ -47,5 +47,8 @@ displayConvexHull(df,0,1,hull)
 7. Klik tombol run.
 8. Selamat ConvexHull sudah terbentuk!
 
+#Pada program ini terdapat print(hull) untuk melihat hull yang terdisplay apakah sesuai
+#Pada versi .ipynb tidak ada print(hull)
+
 Steven Gianmarg Haposan Siahaan/13520145
 K01
